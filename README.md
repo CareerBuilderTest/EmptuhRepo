@@ -1,1 +1,3 @@
 # EmptuhRepo
+kick it
+:wq
